@@ -1,0 +1,2 @@
+fastai
+Pillow==6.1
