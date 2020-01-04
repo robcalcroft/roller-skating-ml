@@ -1,0 +1,4 @@
+fastai
+
+# Important for GitHub actions
+Pillow==6.1
